@@ -23,7 +23,7 @@ class Developer:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
-me = Developer()`
+me = Developer()
 me.say_hi()
 ```
 
@@ -69,28 +69,23 @@ me.say_hi()
 
 <div align="center">
 
-  <!-- Most Used Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadyand&layout=donut-vertical&theme=react" 
     height="300em"
   />
 
-  <!-- Small spacing -->
   <div style="margin: -10px;"></div>
 
-  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rahadyand&show_icons=true&theme=react&include_all_commits=true&count_private=true" 
     height="200em"
   />
 
-  <!-- Small spacing -->
   <div style="margin: -10px;"></div>
 
-  <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=rahadyand&theme=react&hide_border=true&type=png" 
-    height="220em"
+    src="https://nirzak-streak-stats.vercel.app/?user=rahadyand&theme=react&hide_border=true"
+    height="190em"
   />
 
 </div>
@@ -145,15 +140,13 @@ me.say_hi()
 
 </div>
 
----
-
-<div align="center">
+<!-- <div align="center">
   
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=rahadyand&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rahadyand&color=blueviolet&style=for-the-badge) -->
 
 ---
 
