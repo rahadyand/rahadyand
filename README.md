@@ -61,10 +61,38 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadyand&layout=donut-vertical&theme=react"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rahadyand&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://streak-stats.demolab.com?user=rahadyand&theme=react&hide_border=true&type=png"/>
+</div> -->
+
+<div align="center">
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadyand&layout=donut-vertical&theme=react" 
+    height="300em"
+  />
+
+  <!-- Small spacing -->
+  <div style="margin: -10px;"></div>
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rahadyand&show_icons=true&theme=react&include_all_commits=true&count_private=true" 
+    height="200em"
+  />
+
+  <!-- Small spacing -->
+  <div style="margin: -10px;"></div>
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=rahadyand&theme=react&hide_border=true&type=png" 
+    height="220em"
+  />
+
 </div>
 
 ---
