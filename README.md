@@ -84,7 +84,7 @@ me.say_hi()
   <div style="margin: -10px;"></div>
 
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=rahadyand&theme=react&hide_border=true"
+    src="https://nirzak-streak-stats.vercel.app/?user=rahadyand&theme=react&hide_border=false"
     height="190em"
   />
 
