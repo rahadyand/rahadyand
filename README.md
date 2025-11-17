@@ -1,3 +1,4 @@
+
 # 👋 Helloo.., I'm Rahadyan!
 
 ---
@@ -63,7 +64,7 @@ me.say_hi()
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahadyand&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadyand&layout=compact&langs_count=8&theme=react"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahadyand&theme=react&hide_border=true&type=png" alt="GitHub Streak" /></a>
+  <img height="180cm" src="https://streak-stats.demolab.com?user=rahadyand&theme=react&hide_border=true&type=png" alt="GitHub Streak" />
 </div>
 
 ---
