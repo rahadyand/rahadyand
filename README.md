@@ -22,12 +22,12 @@ class Developer:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
-me = Developer()
+me = Developer()`
 me.say_hi()
 ```
 
 🎓 **Education:** Informatics Student  
-💡 **Passion:** Extracting intelligence from data and transforming it into real world impact
+💡 **Passion:** Extracting intelligence from data and transforming it into real world impact  
 🎯 **Current Focus:** Machine Learning & AI Agents  
 📫 **Reach me at:** rahadyanarkana@gmail.com
 
@@ -63,10 +63,7 @@ me.say_hi()
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahadyand&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadyand&layout=compact&langs_count=8&theme=react"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahadyand&theme=react" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahadyand&theme=react&hide_border=true&type=png" alt="GitHub Streak" /></a>
 </div>
 
 ---
@@ -131,7 +128,7 @@ me.say_hi()
 
 ---
 
-**Thanks for exploring my GitHub 🚀🌌**
+**Thanks for exploring my GitHub 🚀🌌**  
 If any of these projects resonate with you, a ⭐ helps fuel the next iteration.
 
 </div>
