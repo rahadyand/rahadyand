@@ -69,7 +69,8 @@ me.say_hi()
 
 <div align="center">
 
-  <img 
+
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadyand&layout=donut-vertical&theme=react" 
     height="300em"
   />
@@ -81,7 +82,7 @@ me.say_hi()
     height="200em"
   />
 
-  <div style="margin: -10px;"></div>
+  <div style="margin: -10px;"></div> -->
 
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=rahadyand&theme=react&hide_border=false"
