@@ -103,11 +103,11 @@ me.say_hi()
 
 ---
 
-## 🔥 Featured Projects
+<!-- ## 🔥 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rahadyand&repo=Python-Project&theme=react)](https://github.com/rahadyand/Python-Project.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rahadyand&repo=Python-Project&theme=react)](https://github.com/rahadyand/Python-Project.git) -->
 
 </div>
 
