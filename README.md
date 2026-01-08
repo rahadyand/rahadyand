@@ -99,7 +99,7 @@ me.say_hi()
 - 📊 Performed EDA on multiple datasets  
 - 🧠 Learning ML & AI fundamentals  
 - 📈 Created data visualizations  
-- 🗂️ Worked with data cleaning & preprocessing
+<!-- - 🗂️ Worked with data cleaning & preprocessing -->
 
 ---
 
