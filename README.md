@@ -1,4 +1,3 @@
-g
 # 👋 Helloo.., I'm Rahadyan!
 
 ---
