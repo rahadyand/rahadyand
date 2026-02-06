@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About me
 
 ```python
 class Developer:
