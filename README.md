@@ -1,4 +1,4 @@
-# 👋 Helloo.., I'm Rahadyan!
+8# 👋 Helloo.., I'm Rahadyan!
 
 ---
 
@@ -151,6 +151,6 @@ me.say_hi()
 ---
 
 **Thanks for exploring my GitHub 🚀🌌**  
-If any of these projects resonate with you, a ⭐ helps fuel the next iteration.
+If any of these projects resonate with you, a ⭐ helps fuel the next iteration
 
 </div>
