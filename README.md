@@ -1,4 +1,4 @@
-8# 👋 Helloo.., I'm Rahadyan!
+# 👋 Helloo.., I'm Rahadyan!
 
 ---
 
