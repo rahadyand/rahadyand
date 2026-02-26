@@ -151,6 +151,6 @@ me.say_hi()
 ---
 
 **Thanks for exploring my GitHub 🚀🌌**  
-If any of these projects resonate with you, a ⭐ helps fuel the next iteration Okey
+If any of these projects resonate with you, a ⭐ helps fuel the next iteration
 
 </div>
