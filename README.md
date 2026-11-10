@@ -10,9 +10,9 @@ Currently learning Machine Learning and Data Science.
 - **Machine Learning:** `scikit-learn`, `XGBoost`, `LightGBM`
 - **Deep Learning:** `PyTorch`, `TensorFlow`, `Keras`
 - **Computer Vision:** `OpenCV`, `torchvision`
+- **Environment:** `Jupyter Notebook`, `Google Colab`, `Mini Conda`
 <!-- - **NLP:** `Hugging Face Transformers`, `NLTK`, `spaCy` -->
 <!-- - **Experiment Tracking:** `TensorBoard`, `MLflow`, `Weights & Biases` -->
-- **Environment:** `Jupyter Notebook`, `Google Colab`, `Mini Conda`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahadyand&color=007ec6&style=flat-square&label=Profile+Views)
 
